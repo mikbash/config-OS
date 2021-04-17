@@ -1,0 +1,16 @@
+#!/bin/bash
+#atualizar o sistema
+sudo apt update
+sudo apt-get update
+sudo apt upgrade
+sudo apt-get uprade
+sudo apt autoremove
+sudo apt-get autoremove
+#pacotes essenciais: python, ffmpeg, java, rar, unrar
+sudo apt install python
+sudo apt install ffmpeg
+sudo apt install openjdk-17-jre-headless
+sudo apt install openjdk-17-jdk-headless
+sudo apt install rar
+sudo apt install unrar
+
